@@ -57,3 +57,4 @@ elif computermove == 'r' and move == 'p':
     win += 1
 print('Now you have {} wins, {} loses and {} draws, wanna try again?'.format(win,lose,draw))
 
+
